@@ -105,6 +105,48 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
+                    "m_Id": "ceb720f57abe4ab6a3815f2853dceea2"
+                },
+                "m_SlotId": 1
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "3367d3a1caa14afda267c7614f372cf2"
+                },
+                "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "ceb720f57abe4ab6a3815f2853dceea2"
+                },
+                "m_SlotId": 1
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "57ebe7a9b1f042ee8b94b7560b8eb3b3"
+                },
+                "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "ceb720f57abe4ab6a3815f2853dceea2"
+                },
+                "m_SlotId": 1
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "f0111bc074834a449bb90b5123affcbd"
+                },
+                "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
                     "m_Id": "dd9fbe172ab846569a6be90ab0552ccf"
                 },
                 "m_SlotId": 1
@@ -1644,7 +1686,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Amplitude",
     "m_StageCapability": 2,
-    "m_Value": 3.130000114440918,
+    "m_Value": 4.610000133514404,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
